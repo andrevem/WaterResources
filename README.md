@@ -1,5 +1,5 @@
 # 🌊 Water Resources Scoop Bucket
-[![Tests](https://github.com/andreivem/WaterResources/actions/workflows/ci.yml/badge.svg)](https://github.com/andreivem/WaterResources/actions/workflows/ci.yml) [![Excavator](https://github.com/andreivem/WaterResources/actions/workflows/excavator.yml/badge.svg)](https://github.com/andreivem/WaterResources/actions/workflows/excavator.yml) -->
+[![Tests](https://github.com/andreivem/WaterResources/actions/workflows/ci.yml/badge.svg)](https://github.com/andreivem/WaterResources/actions/workflows/ci.yml) [![Excavator](https://github.com/andreivem/WaterResources/actions/workflows/excavator.yml/badge.svg)](https://github.com/andreivem/WaterResources/actions/workflows/excavator.yml)
 
 A [Scoop](https://scoop.sh) bucket for installing water resources-related software.
 
